@@ -2,7 +2,6 @@
 
 > Want to create a profile like this? Check <a href="https://www.youtube.com/watch?v=-otyb0ngsa4" target="_blank" rel="noopener noreferrer">this</a> out
 
-<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
 <!--
 **nkg29/nkg29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
