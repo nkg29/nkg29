@@ -1,6 +1,7 @@
 # Hi there 👋
 
-> Want to create a profile like this? Check <a href="https://www.youtube.com/watch?v=-otyb0ngsa4" target="_blank" rel="noopener noreferrer">this</a> out
+![just a small lavender plant](https://th.bing.com/th/id/R.5f63e09157987b9f42dee48a70d32d5d?rik=%2bXo3doBk4nU6Lw&riu=http%3a%2f%2ffc05.deviantart.net%2ffs70%2fi%2f2012%2f130%2f1%2f2%2flavender_mint_cutie_mark_by_jaelachan-d4z6wcq.png&ehk=WrOfgOz5ZyhWQYY5m5G8LRXQzzUpDxeUZB1EkTbTurM%3d&risl=&pid=ImgRaw&r=0 "lavender :)")
+> Want to create a profile like this? Check **[this](https://www.youtube.com/watch?v=-otyb0ngsa4")** out
 
 <!--
 **nkg29/nkg29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
